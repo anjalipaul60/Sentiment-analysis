@@ -1,0 +1,501 @@
+review_id,product,source,customer_id,rating,review_text,sentiment
+REV0001,Power Bank,Amazon,Customer_121,4,Amazing quality and very useful for daily use.,positive
+REV0002,Power Bank,Amazon,Customer_136,4,The product works perfectly and looks great.,positive
+REV0003,Keyboard,Social Media,Customer_121,5,"Excellent product, I really loved it.",positive
+REV0004,Camera,Amazon,Customer_127,5,The product works perfectly and looks great.,positive
+REV0005,Laptop,News Website,Customer_103,5,Fast delivery and excellent product quality.,positive
+REV0006,Mouse,Social Media,Customer_104,1,Very poor quality and stopped working quickly.,negative
+REV0007,Camera,Social Media,Customer_102,3,"It works, but there are some limitations.",neutral
+REV0008,Power Bank,News Website,Customer_135,5,Great value for money and easy to use.,positive
+REV0009,Smart Watch,Social Media,Customer_106,5,Great value for money and easy to use.,positive
+REV0010,Smartphone,Social Media,Customer_144,1,I am disappointed with this product.,negative
+REV0011,Power Bank,Social Media,Customer_123,5,Very happy with my purchase. Highly recommended.,positive
+REV0012,Smartphone,News Website,Customer_124,5,Amazing quality and very useful for daily use.,positive
+REV0013,Camera,Amazon,Customer_115,3,The quality is neither good nor bad.,neutral
+REV0014,Power Bank,Amazon,Customer_144,4,The product works perfectly and looks great.,positive
+REV0015,Laptop,Amazon,Customer_105,5,Amazing quality and very useful for daily use.,positive
+REV0016,Mouse,Amazon,Customer_108,4,Very happy with my purchase. Highly recommended.,positive
+REV0017,Mouse,Social Media,Customer_124,5,Fast delivery and excellent product quality.,positive
+REV0018,Laptop,Amazon,Customer_135,2,Poor quality for the price.,negative
+REV0019,Bluetooth Speaker,Social Media,Customer_114,3,The product is acceptable for normal use.,neutral
+REV0020,USB Cable,Amazon,Customer_132,2,Very poor quality and stopped working quickly.,negative
+REV0021,Bluetooth Speaker,News Website,Customer_139,5,Fast delivery and excellent product quality.,positive
+REV0022,Mouse,News Website,Customer_122,2,Terrible experience. I would not recommend it.,negative
+REV0023,Camera,Amazon,Customer_106,3,"It works, but there are some limitations.",neutral
+REV0024,USB Cable,News Website,Customer_128,3,The product is okay and works as expected.,neutral
+REV0025,Camera,News Website,Customer_113,4,"Excellent product, I really loved it.",positive
+REV0026,Camera,Social Media,Customer_137,5,"Excellent product, I really loved it.",positive
+REV0027,Keyboard,Amazon,Customer_149,5,Great value for money and easy to use.,positive
+REV0028,Mouse,Social Media,Customer_103,3,The product is okay and works as expected.,neutral
+REV0029,Wireless Headphones,Social Media,Customer_102,5,Very happy with my purchase. Highly recommended.,positive
+REV0030,Wireless Headphones,Amazon,Customer_119,4,Great value for money and easy to use.,positive
+REV0031,Keyboard,News Website,Customer_104,5,The product works perfectly and looks great.,positive
+REV0032,Keyboard,Amazon,Customer_134,4,Great value for money and easy to use.,positive
+REV0033,Wireless Headphones,Amazon,Customer_106,4,Fast delivery and excellent product quality.,positive
+REV0034,Smart Watch,News Website,Customer_126,3,The product is acceptable for normal use.,neutral
+REV0035,Mouse,Amazon,Customer_133,3,Average quality. Nothing special about it.,neutral
+REV0036,Camera,Amazon,Customer_150,3,The product meets the basic requirements.,neutral
+REV0037,USB Cable,Amazon,Customer_149,2,I am disappointed with this product.,negative
+REV0038,Bluetooth Speaker,Amazon,Customer_132,3,The product is acceptable for normal use.,neutral
+REV0039,Laptop,News Website,Customer_120,4,Great value for money and easy to use.,positive
+REV0040,Wireless Headphones,Social Media,Customer_140,2,Terrible experience. I would not recommend it.,negative
+REV0041,Camera,News Website,Customer_125,2,Poor quality for the price.,negative
+REV0042,Smartphone,Social Media,Customer_135,5,Fast delivery and excellent product quality.,positive
+REV0043,Wireless Headphones,Social Media,Customer_121,4,Very happy with my purchase. Highly recommended.,positive
+REV0044,Laptop,Amazon,Customer_133,5,Very happy with my purchase. Highly recommended.,positive
+REV0045,Keyboard,Social Media,Customer_130,1,Delivery was late and the product was disappointing.,negative
+REV0046,Power Bank,News Website,Customer_127,3,Average quality. Nothing special about it.,neutral
+REV0047,Wireless Headphones,Amazon,Customer_148,4,The product works perfectly and looks great.,positive
+REV0048,Wireless Headphones,Social Media,Customer_129,1,Delivery was late and the product was disappointing.,negative
+REV0049,Camera,Amazon,Customer_124,3,The quality is neither good nor bad.,neutral
+REV0050,Laptop,Amazon,Customer_121,4,"Excellent product, I really loved it.",positive
+REV0051,Camera,Social Media,Customer_131,5,Great value for money and easy to use.,positive
+REV0052,Power Bank,Social Media,Customer_132,2,Delivery was late and the product was disappointing.,negative
+REV0053,USB Cable,Social Media,Customer_126,4,"Excellent product, I really loved it.",positive
+REV0054,Keyboard,News Website,Customer_129,3,Average quality. Nothing special about it.,neutral
+REV0055,Camera,Amazon,Customer_107,3,The product is okay and works as expected.,neutral
+REV0056,Power Bank,Social Media,Customer_116,1,Delivery was late and the product was disappointing.,negative
+REV0057,Smartphone,Social Media,Customer_132,3,The product meets the basic requirements.,neutral
+REV0058,Keyboard,Social Media,Customer_122,5,"Excellent product, I really loved it.",positive
+REV0059,Keyboard,News Website,Customer_137,5,"Excellent product, I really loved it.",positive
+REV0060,Bluetooth Speaker,News Website,Customer_104,3,The product meets the basic requirements.,neutral
+REV0061,Laptop,News Website,Customer_140,5,Very happy with my purchase. Highly recommended.,positive
+REV0062,USB Cable,Social Media,Customer_119,5,"Excellent product, I really loved it.",positive
+REV0063,USB Cable,News Website,Customer_126,4,Fast delivery and excellent product quality.,positive
+REV0064,Camera,Amazon,Customer_101,5,Amazing quality and very useful for daily use.,positive
+REV0065,Keyboard,Amazon,Customer_140,3,The quality is neither good nor bad.,neutral
+REV0066,Mouse,News Website,Customer_105,5,Great value for money and easy to use.,positive
+REV0067,USB Cable,News Website,Customer_137,2,Delivery was late and the product was disappointing.,negative
+REV0068,Bluetooth Speaker,News Website,Customer_149,5,Great value for money and easy to use.,positive
+REV0069,USB Cable,Social Media,Customer_148,3,The quality is neither good nor bad.,neutral
+REV0070,Bluetooth Speaker,News Website,Customer_110,4,Great value for money and easy to use.,positive
+REV0071,USB Cable,Social Media,Customer_119,2,I am disappointed with this product.,negative
+REV0072,Smart Watch,News Website,Customer_102,1,Very poor quality and stopped working quickly.,negative
+REV0073,Smart Watch,Social Media,Customer_135,3,"It works, but there are some limitations.",neutral
+REV0074,Bluetooth Speaker,News Website,Customer_101,4,"Excellent product, I really loved it.",positive
+REV0075,Smartphone,Amazon,Customer_150,2,The product arrived damaged and does not work.,negative
+REV0076,USB Cable,Social Media,Customer_126,5,Great value for money and easy to use.,positive
+REV0077,Smart Watch,Social Media,Customer_150,3,The quality is neither good nor bad.,neutral
+REV0078,Camera,Amazon,Customer_136,3,Average quality. Nothing special about it.,neutral
+REV0079,Laptop,Amazon,Customer_135,5,Very happy with my purchase. Highly recommended.,positive
+REV0080,Power Bank,News Website,Customer_132,4,Fast delivery and excellent product quality.,positive
+REV0081,Mouse,Amazon,Customer_135,4,"Excellent product, I really loved it.",positive
+REV0082,Smart Watch,Amazon,Customer_122,4,Fast delivery and excellent product quality.,positive
+REV0083,Camera,News Website,Customer_112,3,The product is okay and works as expected.,neutral
+REV0084,Smart Watch,News Website,Customer_147,5,Fast delivery and excellent product quality.,positive
+REV0085,Smart Watch,News Website,Customer_121,5,Very happy with my purchase. Highly recommended.,positive
+REV0086,Mouse,Amazon,Customer_142,3,Average quality. Nothing special about it.,neutral
+REV0087,Bluetooth Speaker,News Website,Customer_123,4,Fast delivery and excellent product quality.,positive
+REV0088,Camera,Social Media,Customer_144,5,"Excellent product, I really loved it.",positive
+REV0089,Power Bank,Social Media,Customer_109,4,Amazing quality and very useful for daily use.,positive
+REV0090,Bluetooth Speaker,Social Media,Customer_119,3,The quality is neither good nor bad.,neutral
+REV0091,Mouse,Amazon,Customer_145,5,Very happy with my purchase. Highly recommended.,positive
+REV0092,Laptop,Amazon,Customer_144,5,Great value for money and easy to use.,positive
+REV0093,Laptop,News Website,Customer_103,2,Poor quality for the price.,negative
+REV0094,USB Cable,Amazon,Customer_141,5,"Excellent product, I really loved it.",positive
+REV0095,Camera,News Website,Customer_149,2,Very poor quality and stopped working quickly.,negative
+REV0096,Keyboard,Social Media,Customer_144,3,The quality is neither good nor bad.,neutral
+REV0097,Bluetooth Speaker,Social Media,Customer_121,3,The product is acceptable for normal use.,neutral
+REV0098,Laptop,Amazon,Customer_118,3,The product is okay and works as expected.,neutral
+REV0099,Wireless Headphones,Amazon,Customer_103,4,"Excellent product, I really loved it.",positive
+REV0100,Power Bank,Social Media,Customer_112,3,"It works, but there are some limitations.",neutral
+REV0101,Smart Watch,Social Media,Customer_108,5,Amazing quality and very useful for daily use.,positive
+REV0102,Bluetooth Speaker,Amazon,Customer_136,5,The product works perfectly and looks great.,positive
+REV0103,Wireless Headphones,Amazon,Customer_120,1,Poor quality for the price.,negative
+REV0104,Laptop,Amazon,Customer_106,1,I am disappointed with this product.,negative
+REV0105,Camera,Social Media,Customer_110,4,Great value for money and easy to use.,positive
+REV0106,Mouse,Amazon,Customer_101,3,Average quality. Nothing special about it.,neutral
+REV0107,Bluetooth Speaker,Social Media,Customer_125,3,The product meets the basic requirements.,neutral
+REV0108,Wireless Headphones,Social Media,Customer_141,3,The product is acceptable for normal use.,neutral
+REV0109,Mouse,Social Media,Customer_128,4,"Excellent product, I really loved it.",positive
+REV0110,Laptop,Amazon,Customer_123,2,Poor quality for the price.,negative
+REV0111,Laptop,Amazon,Customer_121,2,Delivery was late and the product was disappointing.,negative
+REV0112,Smart Watch,Social Media,Customer_101,4,"Excellent product, I really loved it.",positive
+REV0113,Power Bank,News Website,Customer_126,2,I am disappointed with this product.,negative
+REV0114,Smartphone,Amazon,Customer_144,1,Poor quality for the price.,negative
+REV0115,Wireless Headphones,News Website,Customer_147,4,Fast delivery and excellent product quality.,positive
+REV0116,Laptop,News Website,Customer_138,1,Terrible experience. I would not recommend it.,negative
+REV0117,Smartphone,Social Media,Customer_115,3,The product is acceptable for normal use.,neutral
+REV0118,Camera,Social Media,Customer_133,5,Very happy with my purchase. Highly recommended.,positive
+REV0119,Wireless Headphones,Amazon,Customer_129,5,Very happy with my purchase. Highly recommended.,positive
+REV0120,Wireless Headphones,Amazon,Customer_134,4,Great value for money and easy to use.,positive
+REV0121,Laptop,News Website,Customer_123,4,The product works perfectly and looks great.,positive
+REV0122,Power Bank,Amazon,Customer_103,5,The product works perfectly and looks great.,positive
+REV0123,USB Cable,News Website,Customer_119,2,Poor quality for the price.,negative
+REV0124,Keyboard,Amazon,Customer_106,5,"Excellent product, I really loved it.",positive
+REV0125,Smartphone,Amazon,Customer_114,2,I am disappointed with this product.,negative
+REV0126,Camera,News Website,Customer_122,2,Delivery was late and the product was disappointing.,negative
+REV0127,Wireless Headphones,Social Media,Customer_136,5,"Excellent product, I really loved it.",positive
+REV0128,Smart Watch,News Website,Customer_147,4,Great value for money and easy to use.,positive
+REV0129,Power Bank,Social Media,Customer_145,5,Amazing quality and very useful for daily use.,positive
+REV0130,Mouse,News Website,Customer_147,5,Great value for money and easy to use.,positive
+REV0131,Smartphone,Social Media,Customer_138,1,The product arrived damaged and does not work.,negative
+REV0132,Mouse,Amazon,Customer_128,5,Amazing quality and very useful for daily use.,positive
+REV0133,Keyboard,Social Media,Customer_144,1,Very poor quality and stopped working quickly.,negative
+REV0134,Smart Watch,Social Media,Customer_103,3,The product is okay and works as expected.,neutral
+REV0135,Keyboard,Social Media,Customer_147,4,"Excellent product, I really loved it.",positive
+REV0136,Bluetooth Speaker,Social Media,Customer_126,1,I am disappointed with this product.,negative
+REV0137,Keyboard,Amazon,Customer_133,4,Fast delivery and excellent product quality.,positive
+REV0138,Mouse,Social Media,Customer_111,5,Great value for money and easy to use.,positive
+REV0139,Mouse,Amazon,Customer_103,4,The product works perfectly and looks great.,positive
+REV0140,Power Bank,News Website,Customer_106,4,Amazing quality and very useful for daily use.,positive
+REV0141,Keyboard,Social Media,Customer_149,2,Delivery was late and the product was disappointing.,negative
+REV0142,Camera,Social Media,Customer_115,4,The product works perfectly and looks great.,positive
+REV0143,Bluetooth Speaker,Social Media,Customer_126,1,Delivery was late and the product was disappointing.,negative
+REV0144,Smart Watch,Amazon,Customer_112,1,Very poor quality and stopped working quickly.,negative
+REV0145,Bluetooth Speaker,Social Media,Customer_111,2,Terrible experience. I would not recommend it.,negative
+REV0146,Keyboard,Social Media,Customer_110,4,Fast delivery and excellent product quality.,positive
+REV0147,Power Bank,Social Media,Customer_120,5,"Excellent product, I really loved it.",positive
+REV0148,Camera,News Website,Customer_115,4,Great value for money and easy to use.,positive
+REV0149,Wireless Headphones,Amazon,Customer_144,5,Amazing quality and very useful for daily use.,positive
+REV0150,Camera,Social Media,Customer_112,5,The product works perfectly and looks great.,positive
+REV0151,Keyboard,Amazon,Customer_108,5,The product works perfectly and looks great.,positive
+REV0152,Laptop,Amazon,Customer_137,2,Poor quality for the price.,negative
+REV0153,Smart Watch,Amazon,Customer_145,5,Amazing quality and very useful for daily use.,positive
+REV0154,Mouse,Social Media,Customer_132,5,The product works perfectly and looks great.,positive
+REV0155,Wireless Headphones,Amazon,Customer_117,1,Very poor quality and stopped working quickly.,negative
+REV0156,Bluetooth Speaker,News Website,Customer_139,5,The product works perfectly and looks great.,positive
+REV0157,Laptop,Social Media,Customer_115,4,Fast delivery and excellent product quality.,positive
+REV0158,Smart Watch,Amazon,Customer_138,5,"Excellent product, I really loved it.",positive
+REV0159,Mouse,Amazon,Customer_104,4,Great value for money and easy to use.,positive
+REV0160,USB Cable,Amazon,Customer_138,1,Poor quality for the price.,negative
+REV0161,Power Bank,News Website,Customer_129,5,Fast delivery and excellent product quality.,positive
+REV0162,Smartphone,News Website,Customer_131,5,The product works perfectly and looks great.,positive
+REV0163,Bluetooth Speaker,News Website,Customer_110,2,Delivery was late and the product was disappointing.,negative
+REV0164,USB Cable,Social Media,Customer_143,4,Very happy with my purchase. Highly recommended.,positive
+REV0165,Smartphone,Amazon,Customer_133,3,"It works, but there are some limitations.",neutral
+REV0166,Smart Watch,Amazon,Customer_137,2,I am disappointed with this product.,negative
+REV0167,Camera,Social Media,Customer_129,2,Delivery was late and the product was disappointing.,negative
+REV0168,Mouse,Amazon,Customer_146,3,The quality is neither good nor bad.,neutral
+REV0169,Keyboard,News Website,Customer_101,3,The product meets the basic requirements.,neutral
+REV0170,Bluetooth Speaker,News Website,Customer_109,1,Poor quality for the price.,negative
+REV0171,Bluetooth Speaker,Social Media,Customer_141,5,The product works perfectly and looks great.,positive
+REV0172,Keyboard,Social Media,Customer_107,4,Amazing quality and very useful for daily use.,positive
+REV0173,Laptop,Social Media,Customer_124,4,"Excellent product, I really loved it.",positive
+REV0174,Power Bank,Amazon,Customer_149,5,Fast delivery and excellent product quality.,positive
+REV0175,Smartphone,Amazon,Customer_149,2,Very poor quality and stopped working quickly.,negative
+REV0176,Keyboard,Social Media,Customer_128,3,The quality is neither good nor bad.,neutral
+REV0177,Mouse,News Website,Customer_119,4,Great value for money and easy to use.,positive
+REV0178,Power Bank,News Website,Customer_118,4,"Excellent product, I really loved it.",positive
+REV0179,Smartphone,Social Media,Customer_128,2,Very poor quality and stopped working quickly.,negative
+REV0180,Smart Watch,Amazon,Customer_108,5,Fast delivery and excellent product quality.,positive
+REV0181,USB Cable,Social Media,Customer_119,4,Great value for money and easy to use.,positive
+REV0182,Mouse,Social Media,Customer_107,1,Poor quality for the price.,negative
+REV0183,Laptop,News Website,Customer_108,4,Great value for money and easy to use.,positive
+REV0184,Laptop,Amazon,Customer_128,4,Amazing quality and very useful for daily use.,positive
+REV0185,Power Bank,Social Media,Customer_143,3,"It works, but there are some limitations.",neutral
+REV0186,Mouse,Social Media,Customer_107,3,Average quality. Nothing special about it.,neutral
+REV0187,Laptop,Amazon,Customer_119,4,Very happy with my purchase. Highly recommended.,positive
+REV0188,Wireless Headphones,News Website,Customer_105,2,Terrible experience. I would not recommend it.,negative
+REV0189,Laptop,News Website,Customer_112,4,Very happy with my purchase. Highly recommended.,positive
+REV0190,Camera,Social Media,Customer_144,2,The product arrived damaged and does not work.,negative
+REV0191,Power Bank,Amazon,Customer_110,3,The product meets the basic requirements.,neutral
+REV0192,Wireless Headphones,Social Media,Customer_117,5,Great value for money and easy to use.,positive
+REV0193,Camera,News Website,Customer_109,1,Delivery was late and the product was disappointing.,negative
+REV0194,USB Cable,Social Media,Customer_129,2,Poor quality for the price.,negative
+REV0195,Keyboard,Social Media,Customer_121,1,I am disappointed with this product.,negative
+REV0196,Wireless Headphones,Amazon,Customer_125,2,Delivery was late and the product was disappointing.,negative
+REV0197,USB Cable,Social Media,Customer_121,3,The product is acceptable for normal use.,neutral
+REV0198,Power Bank,Social Media,Customer_112,3,The quality is neither good nor bad.,neutral
+REV0199,Wireless Headphones,Social Media,Customer_121,2,Terrible experience. I would not recommend it.,negative
+REV0200,Smartphone,Social Media,Customer_143,2,Very poor quality and stopped working quickly.,negative
+REV0201,USB Cable,Amazon,Customer_121,5,The product works perfectly and looks great.,positive
+REV0202,Wireless Headphones,News Website,Customer_139,5,The product works perfectly and looks great.,positive
+REV0203,Power Bank,Social Media,Customer_122,3,The quality is neither good nor bad.,neutral
+REV0204,Smart Watch,News Website,Customer_135,5,Very happy with my purchase. Highly recommended.,positive
+REV0205,Smartphone,Amazon,Customer_126,5,Amazing quality and very useful for daily use.,positive
+REV0206,Wireless Headphones,Amazon,Customer_125,4,Fast delivery and excellent product quality.,positive
+REV0207,Mouse,News Website,Customer_103,1,I am disappointed with this product.,negative
+REV0208,Keyboard,Social Media,Customer_112,1,The product arrived damaged and does not work.,negative
+REV0209,Wireless Headphones,Amazon,Customer_117,4,Amazing quality and very useful for daily use.,positive
+REV0210,Power Bank,News Website,Customer_108,1,Poor quality for the price.,negative
+REV0211,Keyboard,Amazon,Customer_118,2,Very poor quality and stopped working quickly.,negative
+REV0212,Camera,Amazon,Customer_126,2,I am disappointed with this product.,negative
+REV0213,USB Cable,Amazon,Customer_122,1,I am disappointed with this product.,negative
+REV0214,Mouse,Amazon,Customer_148,4,Amazing quality and very useful for daily use.,positive
+REV0215,Smart Watch,News Website,Customer_135,4,Amazing quality and very useful for daily use.,positive
+REV0216,Power Bank,News Website,Customer_144,1,Terrible experience. I would not recommend it.,negative
+REV0217,Power Bank,Social Media,Customer_123,4,Very happy with my purchase. Highly recommended.,positive
+REV0218,Smart Watch,Amazon,Customer_122,1,Very poor quality and stopped working quickly.,negative
+REV0219,USB Cable,Social Media,Customer_102,2,The product arrived damaged and does not work.,negative
+REV0220,Mouse,Amazon,Customer_113,3,Average quality. Nothing special about it.,neutral
+REV0221,Mouse,Social Media,Customer_129,3,The product meets the basic requirements.,neutral
+REV0222,Camera,News Website,Customer_110,5,Great value for money and easy to use.,positive
+REV0223,Bluetooth Speaker,Amazon,Customer_130,4,"Excellent product, I really loved it.",positive
+REV0224,Smartphone,Social Media,Customer_137,5,"Excellent product, I really loved it.",positive
+REV0225,Camera,News Website,Customer_149,4,"Excellent product, I really loved it.",positive
+REV0226,USB Cable,Amazon,Customer_137,1,The product arrived damaged and does not work.,negative
+REV0227,Power Bank,News Website,Customer_113,2,I am disappointed with this product.,negative
+REV0228,Power Bank,Amazon,Customer_145,5,Great value for money and easy to use.,positive
+REV0229,USB Cable,Amazon,Customer_149,5,Amazing quality and very useful for daily use.,positive
+REV0230,Bluetooth Speaker,Social Media,Customer_147,1,Very poor quality and stopped working quickly.,negative
+REV0231,Wireless Headphones,Amazon,Customer_142,2,The product arrived damaged and does not work.,negative
+REV0232,Power Bank,News Website,Customer_132,1,The product arrived damaged and does not work.,negative
+REV0233,Camera,Amazon,Customer_104,5,Great value for money and easy to use.,positive
+REV0234,Power Bank,News Website,Customer_128,3,The quality is neither good nor bad.,neutral
+REV0235,USB Cable,Amazon,Customer_115,3,The product is okay and works as expected.,neutral
+REV0236,Power Bank,News Website,Customer_138,2,The product arrived damaged and does not work.,negative
+REV0237,Keyboard,Amazon,Customer_148,2,Poor quality for the price.,negative
+REV0238,Smartphone,Amazon,Customer_132,3,The product meets the basic requirements.,neutral
+REV0239,Power Bank,Social Media,Customer_140,1,The product arrived damaged and does not work.,negative
+REV0240,Power Bank,News Website,Customer_116,3,"It works, but there are some limitations.",neutral
+REV0241,Camera,Amazon,Customer_143,3,The quality is neither good nor bad.,neutral
+REV0242,Keyboard,News Website,Customer_105,2,The product arrived damaged and does not work.,negative
+REV0243,Mouse,Social Media,Customer_110,3,The product is acceptable for normal use.,neutral
+REV0244,Smartphone,Social Media,Customer_114,4,Fast delivery and excellent product quality.,positive
+REV0245,Wireless Headphones,Amazon,Customer_117,2,I am disappointed with this product.,negative
+REV0246,Laptop,Social Media,Customer_119,1,Delivery was late and the product was disappointing.,negative
+REV0247,Smartphone,News Website,Customer_128,4,Very happy with my purchase. Highly recommended.,positive
+REV0248,Keyboard,Social Media,Customer_104,4,The product works perfectly and looks great.,positive
+REV0249,Wireless Headphones,Social Media,Customer_101,5,Great value for money and easy to use.,positive
+REV0250,Smartphone,Social Media,Customer_147,2,Poor quality for the price.,negative
+REV0251,Smart Watch,Amazon,Customer_112,4,Fast delivery and excellent product quality.,positive
+REV0252,Laptop,News Website,Customer_123,5,Amazing quality and very useful for daily use.,positive
+REV0253,Smart Watch,Amazon,Customer_135,5,Fast delivery and excellent product quality.,positive
+REV0254,Smart Watch,Social Media,Customer_147,3,The product meets the basic requirements.,neutral
+REV0255,Laptop,Amazon,Customer_144,4,Very happy with my purchase. Highly recommended.,positive
+REV0256,Bluetooth Speaker,News Website,Customer_120,2,Delivery was late and the product was disappointing.,negative
+REV0257,Wireless Headphones,Social Media,Customer_138,1,I am disappointed with this product.,negative
+REV0258,Camera,Social Media,Customer_115,5,Very happy with my purchase. Highly recommended.,positive
+REV0259,Camera,Amazon,Customer_129,5,Fast delivery and excellent product quality.,positive
+REV0260,Smartphone,News Website,Customer_103,4,Fast delivery and excellent product quality.,positive
+REV0261,USB Cable,News Website,Customer_120,4,Great value for money and easy to use.,positive
+REV0262,Mouse,Amazon,Customer_144,5,Very happy with my purchase. Highly recommended.,positive
+REV0263,Camera,News Website,Customer_122,5,Great value for money and easy to use.,positive
+REV0264,Power Bank,News Website,Customer_113,5,"Excellent product, I really loved it.",positive
+REV0265,Smartphone,Social Media,Customer_147,5,Great value for money and easy to use.,positive
+REV0266,Wireless Headphones,Social Media,Customer_141,4,The product works perfectly and looks great.,positive
+REV0267,Wireless Headphones,Amazon,Customer_146,5,Great value for money and easy to use.,positive
+REV0268,USB Cable,Social Media,Customer_133,1,I am disappointed with this product.,negative
+REV0269,Wireless Headphones,Amazon,Customer_126,1,Delivery was late and the product was disappointing.,negative
+REV0270,USB Cable,Social Media,Customer_150,5,Amazing quality and very useful for daily use.,positive
+REV0271,Power Bank,News Website,Customer_103,5,The product works perfectly and looks great.,positive
+REV0272,Mouse,News Website,Customer_132,5,"Excellent product, I really loved it.",positive
+REV0273,Smartphone,Social Media,Customer_120,2,Delivery was late and the product was disappointing.,negative
+REV0274,Smart Watch,Social Media,Customer_122,1,I am disappointed with this product.,negative
+REV0275,USB Cable,Social Media,Customer_111,4,Amazing quality and very useful for daily use.,positive
+REV0276,Camera,Amazon,Customer_119,4,Great value for money and easy to use.,positive
+REV0277,Mouse,Amazon,Customer_132,5,The product works perfectly and looks great.,positive
+REV0278,Laptop,Social Media,Customer_137,5,"Excellent product, I really loved it.",positive
+REV0279,Laptop,News Website,Customer_129,5,Great value for money and easy to use.,positive
+REV0280,Wireless Headphones,Social Media,Customer_121,4,Amazing quality and very useful for daily use.,positive
+REV0281,Smart Watch,Social Media,Customer_120,1,Terrible experience. I would not recommend it.,negative
+REV0282,Camera,Social Media,Customer_134,4,Very happy with my purchase. Highly recommended.,positive
+REV0283,Keyboard,News Website,Customer_142,3,The product is acceptable for normal use.,neutral
+REV0284,Laptop,Amazon,Customer_118,1,Poor quality for the price.,negative
+REV0285,Power Bank,Social Media,Customer_123,2,I am disappointed with this product.,negative
+REV0286,Mouse,Amazon,Customer_105,5,Great value for money and easy to use.,positive
+REV0287,Power Bank,News Website,Customer_125,5,Very happy with my purchase. Highly recommended.,positive
+REV0288,Camera,Amazon,Customer_128,1,I am disappointed with this product.,negative
+REV0289,Wireless Headphones,Amazon,Customer_123,3,The product is acceptable for normal use.,neutral
+REV0290,USB Cable,Amazon,Customer_110,3,"It works, but there are some limitations.",neutral
+REV0291,Smart Watch,News Website,Customer_112,3,The product is okay and works as expected.,neutral
+REV0292,Camera,News Website,Customer_137,5,Fast delivery and excellent product quality.,positive
+REV0293,Power Bank,News Website,Customer_115,1,Delivery was late and the product was disappointing.,negative
+REV0294,Smartphone,Social Media,Customer_102,4,"Excellent product, I really loved it.",positive
+REV0295,Wireless Headphones,News Website,Customer_135,2,Delivery was late and the product was disappointing.,negative
+REV0296,Wireless Headphones,Amazon,Customer_114,4,Very happy with my purchase. Highly recommended.,positive
+REV0297,Power Bank,News Website,Customer_143,4,Great value for money and easy to use.,positive
+REV0298,Camera,News Website,Customer_131,3,The product is acceptable for normal use.,neutral
+REV0299,Smart Watch,News Website,Customer_145,5,Very happy with my purchase. Highly recommended.,positive
+REV0300,Mouse,Social Media,Customer_121,2,Very poor quality and stopped working quickly.,negative
+REV0301,Keyboard,Amazon,Customer_147,2,Delivery was late and the product was disappointing.,negative
+REV0302,Mouse,Social Media,Customer_143,4,Amazing quality and very useful for daily use.,positive
+REV0303,USB Cable,News Website,Customer_140,5,"Excellent product, I really loved it.",positive
+REV0304,Smart Watch,Amazon,Customer_101,5,The product works perfectly and looks great.,positive
+REV0305,Bluetooth Speaker,Amazon,Customer_126,3,The product meets the basic requirements.,neutral
+REV0306,Keyboard,News Website,Customer_109,2,Very poor quality and stopped working quickly.,negative
+REV0307,Camera,Amazon,Customer_113,5,"Excellent product, I really loved it.",positive
+REV0308,Keyboard,Social Media,Customer_104,5,Great value for money and easy to use.,positive
+REV0309,Camera,News Website,Customer_119,5,Fast delivery and excellent product quality.,positive
+REV0310,Keyboard,News Website,Customer_125,3,The quality is neither good nor bad.,neutral
+REV0311,Mouse,News Website,Customer_121,5,The product works perfectly and looks great.,positive
+REV0312,Wireless Headphones,Amazon,Customer_135,4,Very happy with my purchase. Highly recommended.,positive
+REV0313,Power Bank,Social Media,Customer_114,4,Amazing quality and very useful for daily use.,positive
+REV0314,Bluetooth Speaker,Social Media,Customer_108,1,I am disappointed with this product.,negative
+REV0315,USB Cable,Amazon,Customer_112,4,Fast delivery and excellent product quality.,positive
+REV0316,Smart Watch,News Website,Customer_143,4,Great value for money and easy to use.,positive
+REV0317,Bluetooth Speaker,News Website,Customer_143,1,Poor quality for the price.,negative
+REV0318,Laptop,News Website,Customer_104,3,The quality is neither good nor bad.,neutral
+REV0319,Smart Watch,Amazon,Customer_146,4,The product works perfectly and looks great.,positive
+REV0320,Power Bank,Social Media,Customer_136,3,The product meets the basic requirements.,neutral
+REV0321,Smart Watch,Social Media,Customer_125,1,Delivery was late and the product was disappointing.,negative
+REV0322,USB Cable,News Website,Customer_113,4,"Excellent product, I really loved it.",positive
+REV0323,Smart Watch,Social Media,Customer_107,2,Delivery was late and the product was disappointing.,negative
+REV0324,USB Cable,News Website,Customer_113,1,Delivery was late and the product was disappointing.,negative
+REV0325,Camera,Social Media,Customer_109,3,Average quality. Nothing special about it.,neutral
+REV0326,USB Cable,Amazon,Customer_126,4,The product works perfectly and looks great.,positive
+REV0327,Laptop,News Website,Customer_110,2,Very poor quality and stopped working quickly.,negative
+REV0328,Wireless Headphones,News Website,Customer_150,5,Fast delivery and excellent product quality.,positive
+REV0329,Smartphone,Amazon,Customer_121,4,"Excellent product, I really loved it.",positive
+REV0330,Laptop,News Website,Customer_132,4,The product works perfectly and looks great.,positive
+REV0331,Camera,Social Media,Customer_125,5,Amazing quality and very useful for daily use.,positive
+REV0332,Smartphone,News Website,Customer_142,4,Great value for money and easy to use.,positive
+REV0333,Mouse,Social Media,Customer_119,4,Very happy with my purchase. Highly recommended.,positive
+REV0334,Mouse,Amazon,Customer_146,2,Terrible experience. I would not recommend it.,negative
+REV0335,Laptop,Amazon,Customer_108,4,"Excellent product, I really loved it.",positive
+REV0336,Smart Watch,Amazon,Customer_149,4,Very happy with my purchase. Highly recommended.,positive
+REV0337,Bluetooth Speaker,Social Media,Customer_108,4,Amazing quality and very useful for daily use.,positive
+REV0338,USB Cable,News Website,Customer_122,1,Delivery was late and the product was disappointing.,negative
+REV0339,Keyboard,Amazon,Customer_135,5,Amazing quality and very useful for daily use.,positive
+REV0340,Keyboard,Social Media,Customer_136,5,Fast delivery and excellent product quality.,positive
+REV0341,Camera,News Website,Customer_116,4,Amazing quality and very useful for daily use.,positive
+REV0342,Wireless Headphones,News Website,Customer_116,4,Great value for money and easy to use.,positive
+REV0343,Power Bank,Social Media,Customer_105,5,Very happy with my purchase. Highly recommended.,positive
+REV0344,Camera,Social Media,Customer_121,3,"It works, but there are some limitations.",neutral
+REV0345,Mouse,Amazon,Customer_116,2,Terrible experience. I would not recommend it.,negative
+REV0346,Smart Watch,Amazon,Customer_123,1,I am disappointed with this product.,negative
+REV0347,Smartphone,News Website,Customer_109,4,"Excellent product, I really loved it.",positive
+REV0348,Mouse,Social Media,Customer_104,5,Amazing quality and very useful for daily use.,positive
+REV0349,Keyboard,Amazon,Customer_142,2,Terrible experience. I would not recommend it.,negative
+REV0350,Smartphone,Amazon,Customer_135,3,The product meets the basic requirements.,neutral
+REV0351,Keyboard,News Website,Customer_116,3,"It works, but there are some limitations.",neutral
+REV0352,Laptop,Social Media,Customer_127,3,Average quality. Nothing special about it.,neutral
+REV0353,Smartphone,Social Media,Customer_125,5,Amazing quality and very useful for daily use.,positive
+REV0354,Smart Watch,News Website,Customer_114,5,"Excellent product, I really loved it.",positive
+REV0355,Smart Watch,News Website,Customer_135,2,Very poor quality and stopped working quickly.,negative
+REV0356,Smartphone,Amazon,Customer_134,3,"It works, but there are some limitations.",neutral
+REV0357,Smart Watch,Social Media,Customer_129,5,Very happy with my purchase. Highly recommended.,positive
+REV0358,Smartphone,News Website,Customer_119,3,The product is acceptable for normal use.,neutral
+REV0359,Camera,Social Media,Customer_111,2,I am disappointed with this product.,negative
+REV0360,Camera,News Website,Customer_119,5,"Excellent product, I really loved it.",positive
+REV0361,Laptop,News Website,Customer_116,4,Very happy with my purchase. Highly recommended.,positive
+REV0362,Power Bank,Amazon,Customer_137,1,Terrible experience. I would not recommend it.,negative
+REV0363,Keyboard,News Website,Customer_150,5,Fast delivery and excellent product quality.,positive
+REV0364,Laptop,News Website,Customer_127,3,"It works, but there are some limitations.",neutral
+REV0365,Keyboard,Amazon,Customer_102,4,Great value for money and easy to use.,positive
+REV0366,Bluetooth Speaker,Social Media,Customer_123,5,Amazing quality and very useful for daily use.,positive
+REV0367,Bluetooth Speaker,Social Media,Customer_150,4,Fast delivery and excellent product quality.,positive
+REV0368,Smart Watch,Amazon,Customer_135,3,The product is okay and works as expected.,neutral
+REV0369,Smart Watch,News Website,Customer_126,1,Delivery was late and the product was disappointing.,negative
+REV0370,Smartphone,News Website,Customer_141,5,Fast delivery and excellent product quality.,positive
+REV0371,Bluetooth Speaker,Social Media,Customer_113,5,"Excellent product, I really loved it.",positive
+REV0372,Camera,Amazon,Customer_101,3,Average quality. Nothing special about it.,neutral
+REV0373,USB Cable,Social Media,Customer_140,4,Fast delivery and excellent product quality.,positive
+REV0374,Power Bank,News Website,Customer_122,3,The product is okay and works as expected.,neutral
+REV0375,Power Bank,Amazon,Customer_119,1,Poor quality for the price.,negative
+REV0376,Bluetooth Speaker,Amazon,Customer_108,1,Very poor quality and stopped working quickly.,negative
+REV0377,Laptop,News Website,Customer_124,1,Very poor quality and stopped working quickly.,negative
+REV0378,USB Cable,News Website,Customer_146,3,"It works, but there are some limitations.",neutral
+REV0379,Mouse,News Website,Customer_128,4,The product works perfectly and looks great.,positive
+REV0380,Keyboard,Social Media,Customer_138,4,Very happy with my purchase. Highly recommended.,positive
+REV0381,Power Bank,Amazon,Customer_109,3,Average quality. Nothing special about it.,neutral
+REV0382,Smart Watch,Social Media,Customer_104,1,Delivery was late and the product was disappointing.,negative
+REV0383,Mouse,Social Media,Customer_150,4,Amazing quality and very useful for daily use.,positive
+REV0384,Power Bank,Social Media,Customer_113,1,Poor quality for the price.,negative
+REV0385,Smartphone,News Website,Customer_110,3,The product is okay and works as expected.,neutral
+REV0386,Camera,News Website,Customer_114,3,"It works, but there are some limitations.",neutral
+REV0387,Smart Watch,Social Media,Customer_120,5,Fast delivery and excellent product quality.,positive
+REV0388,Wireless Headphones,Amazon,Customer_135,2,I am disappointed with this product.,negative
+REV0389,Wireless Headphones,Amazon,Customer_147,3,Average quality. Nothing special about it.,neutral
+REV0390,Power Bank,Social Media,Customer_140,1,Delivery was late and the product was disappointing.,negative
+REV0391,Keyboard,Social Media,Customer_143,2,Very poor quality and stopped working quickly.,negative
+REV0392,Smartphone,Social Media,Customer_129,3,The quality is neither good nor bad.,neutral
+REV0393,Laptop,News Website,Customer_124,2,Terrible experience. I would not recommend it.,negative
+REV0394,Wireless Headphones,News Website,Customer_119,1,Poor quality for the price.,negative
+REV0395,Camera,Amazon,Customer_147,5,Amazing quality and very useful for daily use.,positive
+REV0396,Bluetooth Speaker,News Website,Customer_101,1,Terrible experience. I would not recommend it.,negative
+REV0397,USB Cable,Social Media,Customer_143,5,"Excellent product, I really loved it.",positive
+REV0398,Mouse,News Website,Customer_127,2,I am disappointed with this product.,negative
+REV0399,Smart Watch,Social Media,Customer_142,4,Amazing quality and very useful for daily use.,positive
+REV0400,Camera,Social Media,Customer_120,3,The product is acceptable for normal use.,neutral
+REV0401,Keyboard,News Website,Customer_137,1,I am disappointed with this product.,negative
+REV0402,Smart Watch,Social Media,Customer_124,4,Great value for money and easy to use.,positive
+REV0403,Bluetooth Speaker,Social Media,Customer_140,2,Poor quality for the price.,negative
+REV0404,Camera,Amazon,Customer_120,5,"Excellent product, I really loved it.",positive
+REV0405,Laptop,Amazon,Customer_116,1,I am disappointed with this product.,negative
+REV0406,Power Bank,Social Media,Customer_130,2,I am disappointed with this product.,negative
+REV0407,Laptop,Amazon,Customer_146,2,The product arrived damaged and does not work.,negative
+REV0408,USB Cable,Social Media,Customer_131,4,Very happy with my purchase. Highly recommended.,positive
+REV0409,Smart Watch,Social Media,Customer_149,1,Very poor quality and stopped working quickly.,negative
+REV0410,Camera,Social Media,Customer_145,5,"Excellent product, I really loved it.",positive
+REV0411,Keyboard,News Website,Customer_114,5,Very happy with my purchase. Highly recommended.,positive
+REV0412,Bluetooth Speaker,Amazon,Customer_110,4,Amazing quality and very useful for daily use.,positive
+REV0413,Keyboard,Amazon,Customer_106,4,"Excellent product, I really loved it.",positive
+REV0414,Laptop,Social Media,Customer_135,3,The product meets the basic requirements.,neutral
+REV0415,Bluetooth Speaker,Amazon,Customer_121,4,Amazing quality and very useful for daily use.,positive
+REV0416,USB Cable,Social Media,Customer_139,3,Average quality. Nothing special about it.,neutral
+REV0417,Smart Watch,Social Media,Customer_141,3,The product meets the basic requirements.,neutral
+REV0418,Camera,News Website,Customer_120,5,"Excellent product, I really loved it.",positive
+REV0419,USB Cable,Social Media,Customer_122,3,"It works, but there are some limitations.",neutral
+REV0420,Power Bank,Social Media,Customer_116,4,Great value for money and easy to use.,positive
+REV0421,Keyboard,Amazon,Customer_145,4,Very happy with my purchase. Highly recommended.,positive
+REV0422,USB Cable,News Website,Customer_121,5,Very happy with my purchase. Highly recommended.,positive
+REV0423,Keyboard,News Website,Customer_115,4,Amazing quality and very useful for daily use.,positive
+REV0424,Power Bank,News Website,Customer_148,2,Poor quality for the price.,negative
+REV0425,Camera,Amazon,Customer_121,5,Amazing quality and very useful for daily use.,positive
+REV0426,Bluetooth Speaker,Amazon,Customer_119,4,The product works perfectly and looks great.,positive
+REV0427,Camera,Amazon,Customer_141,3,The product is okay and works as expected.,neutral
+REV0428,USB Cable,Amazon,Customer_107,5,Great value for money and easy to use.,positive
+REV0429,Smartphone,Social Media,Customer_143,2,Very poor quality and stopped working quickly.,negative
+REV0430,Smartphone,Social Media,Customer_146,1,Delivery was late and the product was disappointing.,negative
+REV0431,Bluetooth Speaker,Social Media,Customer_122,3,The product is okay and works as expected.,neutral
+REV0432,Laptop,Amazon,Customer_139,2,Delivery was late and the product was disappointing.,negative
+REV0433,Keyboard,News Website,Customer_110,4,The product works perfectly and looks great.,positive
+REV0434,Mouse,Amazon,Customer_120,4,Amazing quality and very useful for daily use.,positive
+REV0435,Keyboard,News Website,Customer_140,5,Fast delivery and excellent product quality.,positive
+REV0436,Camera,Social Media,Customer_128,2,I am disappointed with this product.,negative
+REV0437,Power Bank,Social Media,Customer_103,1,Terrible experience. I would not recommend it.,negative
+REV0438,Keyboard,News Website,Customer_123,1,Very poor quality and stopped working quickly.,negative
+REV0439,Bluetooth Speaker,News Website,Customer_111,4,Very happy with my purchase. Highly recommended.,positive
+REV0440,Camera,Amazon,Customer_121,2,Very poor quality and stopped working quickly.,negative
+REV0441,Power Bank,Social Media,Customer_142,5,Very happy with my purchase. Highly recommended.,positive
+REV0442,Mouse,News Website,Customer_145,2,The product arrived damaged and does not work.,negative
+REV0443,Keyboard,Amazon,Customer_128,3,The product is okay and works as expected.,neutral
+REV0444,Bluetooth Speaker,Social Media,Customer_106,5,Great value for money and easy to use.,positive
+REV0445,Mouse,Amazon,Customer_145,5,Fast delivery and excellent product quality.,positive
+REV0446,Smart Watch,Social Media,Customer_131,2,The product arrived damaged and does not work.,negative
+REV0447,Camera,News Website,Customer_133,4,Very happy with my purchase. Highly recommended.,positive
+REV0448,Bluetooth Speaker,News Website,Customer_128,2,Poor quality for the price.,negative
+REV0449,Keyboard,News Website,Customer_144,5,"Excellent product, I really loved it.",positive
+REV0450,Camera,Amazon,Customer_124,4,Amazing quality and very useful for daily use.,positive
+REV0451,USB Cable,Amazon,Customer_128,3,Average quality. Nothing special about it.,neutral
+REV0452,Smart Watch,Social Media,Customer_141,4,The product works perfectly and looks great.,positive
+REV0453,Camera,News Website,Customer_148,5,Great value for money and easy to use.,positive
+REV0454,Laptop,Amazon,Customer_120,1,Poor quality for the price.,negative
+REV0455,Power Bank,News Website,Customer_139,1,Delivery was late and the product was disappointing.,negative
+REV0456,Power Bank,News Website,Customer_123,3,The product is acceptable for normal use.,neutral
+REV0457,Keyboard,News Website,Customer_121,1,The product arrived damaged and does not work.,negative
+REV0458,Smart Watch,Social Media,Customer_136,2,Terrible experience. I would not recommend it.,negative
+REV0459,Smartphone,News Website,Customer_133,4,Great value for money and easy to use.,positive
+REV0460,Smartphone,Social Media,Customer_138,1,Delivery was late and the product was disappointing.,negative
+REV0461,Laptop,News Website,Customer_130,3,The product meets the basic requirements.,neutral
+REV0462,Power Bank,Social Media,Customer_126,4,Great value for money and easy to use.,positive
+REV0463,Laptop,Social Media,Customer_103,5,Amazing quality and very useful for daily use.,positive
+REV0464,Mouse,Social Media,Customer_109,2,The product arrived damaged and does not work.,negative
+REV0465,Laptop,News Website,Customer_114,2,Delivery was late and the product was disappointing.,negative
+REV0466,Wireless Headphones,Social Media,Customer_109,5,"Excellent product, I really loved it.",positive
+REV0467,Bluetooth Speaker,News Website,Customer_141,4,The product works perfectly and looks great.,positive
+REV0468,Smart Watch,Social Media,Customer_141,2,Poor quality for the price.,negative
+REV0469,Mouse,Amazon,Customer_149,2,Delivery was late and the product was disappointing.,negative
+REV0470,Smartphone,Amazon,Customer_121,4,Fast delivery and excellent product quality.,positive
+REV0471,Wireless Headphones,Amazon,Customer_109,4,Fast delivery and excellent product quality.,positive
+REV0472,Smartphone,Amazon,Customer_108,4,Fast delivery and excellent product quality.,positive
+REV0473,Keyboard,Social Media,Customer_147,2,Very poor quality and stopped working quickly.,negative
+REV0474,Keyboard,Amazon,Customer_138,5,Very happy with my purchase. Highly recommended.,positive
+REV0475,Mouse,News Website,Customer_128,2,Terrible experience. I would not recommend it.,negative
+REV0476,Laptop,Social Media,Customer_144,5,Amazing quality and very useful for daily use.,positive
+REV0477,Camera,Amazon,Customer_108,4,Great value for money and easy to use.,positive
+REV0478,Wireless Headphones,Amazon,Customer_112,4,Great value for money and easy to use.,positive
+REV0479,USB Cable,Amazon,Customer_129,5,Fast delivery and excellent product quality.,positive
+REV0480,Laptop,Amazon,Customer_120,5,"Excellent product, I really loved it.",positive
+REV0481,Wireless Headphones,Social Media,Customer_108,1,The product arrived damaged and does not work.,negative
+REV0482,Mouse,Amazon,Customer_149,3,The product meets the basic requirements.,neutral
+REV0483,Camera,Amazon,Customer_124,5,Fast delivery and excellent product quality.,positive
+REV0484,Bluetooth Speaker,News Website,Customer_139,4,"Excellent product, I really loved it.",positive
+REV0485,Laptop,News Website,Customer_113,5,Great value for money and easy to use.,positive
+REV0486,Laptop,Amazon,Customer_145,5,Very happy with my purchase. Highly recommended.,positive
+REV0487,USB Cable,News Website,Customer_128,1,I am disappointed with this product.,negative
+REV0488,Mouse,Social Media,Customer_145,1,Very poor quality and stopped working quickly.,negative
+REV0489,Smartphone,Social Media,Customer_133,2,Terrible experience. I would not recommend it.,negative
+REV0490,Power Bank,Amazon,Customer_133,4,Very happy with my purchase. Highly recommended.,positive
+REV0491,Mouse,Social Media,Customer_129,4,"Excellent product, I really loved it.",positive
+REV0492,USB Cable,Social Media,Customer_118,1,The product arrived damaged and does not work.,negative
+REV0493,Laptop,Social Media,Customer_127,3,The quality is neither good nor bad.,neutral
+REV0494,Power Bank,Social Media,Customer_117,3,The product is okay and works as expected.,neutral
+REV0495,Wireless Headphones,News Website,Customer_145,4,Amazing quality and very useful for daily use.,positive
+REV0496,Camera,News Website,Customer_124,3,The product is okay and works as expected.,neutral
+REV0497,Smartphone,News Website,Customer_145,4,"Excellent product, I really loved it.",positive
+REV0498,Smartphone,News Website,Customer_103,5,Very happy with my purchase. Highly recommended.,positive
+REV0499,Mouse,News Website,Customer_148,1,I am disappointed with this product.,negative
+REV0500,Wireless Headphones,News Website,Customer_134,5,Very happy with my purchase. Highly recommended.,positive
